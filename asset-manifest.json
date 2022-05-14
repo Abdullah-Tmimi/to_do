@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//:cre4zy.github.io/to-do/static/css/main.ec0b269a.css",
+    "main.js": "/http//:cre4zy.github.io/to-do/static/js/main.7c17708f.js",
+    "static/media/square-plus-solid.svg": "/http//:cre4zy.github.io/to-do/static/media/square-plus-solid.89caad7ff763f0698f878e4cbdec2484.svg",
+    "static/media/check.svg": "/http//:cre4zy.github.io/to-do/static/media/check.bc2ec73ae158f4eb0a2efb11d8168f97.svg",
+    "static/media/trash-solid.svg": "/http//:cre4zy.github.io/to-do/static/media/trash-solid.4ac5dff726269c234d270917de0379a6.svg",
+    "index.html": "/http//:cre4zy.github.io/to-do/index.html",
+    "main.ec0b269a.css.map": "/http//:cre4zy.github.io/to-do/static/css/main.ec0b269a.css.map",
+    "main.7c17708f.js.map": "/http//:cre4zy.github.io/to-do/static/js/main.7c17708f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0b269a.css",
+    "static/js/main.7c17708f.js"
+  ]
+}
